@@ -3,8 +3,8 @@
 namespace PhalconApi;
 
 use Phalcon\Acl\Enum as AclEnum;
-use Phalcon\Mvc\Micro;
-use Phalcon\Mvc\Micro\CollectionInterface;
+use \Phalcon\Mvc\Micro;
+use \Phalcon\Mvc\Micro\CollectionInterface;
 use PhalconApi\Constants\Services;
 use PhalconApi\Acl\MountableInterface;
 
